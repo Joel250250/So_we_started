@@ -1,0 +1,1 @@
+draw_box(100,100,400,400,sprite_box1,color_get_value(c_white),color_get_value(c_aqua),1);
